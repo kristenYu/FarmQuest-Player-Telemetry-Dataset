@@ -1,0 +1,11 @@
+__pycache__/
+churn/
+clustering/
+comparison_survey/
+difficulty/
+ngram/
+quests/
+salience/
+short_survey/
+processed_data.csv
+salience_data.csv
